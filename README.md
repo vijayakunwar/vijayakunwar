@@ -1,4 +1,5 @@
-**Vijaya Kunwar** > Software Developer   
+**Vijaya Kunwar**  
+> ***Software Developer***
 
 Hi there 👋
 
