@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**I'm Vijaya Kunwar, a passionate software developer with a specialization in test automation. I thrive on turning ideas into reality through code, and my journey involves continuous learning and exploration in the vast world of software development. 
-I am currently immersed in the exciting realm of test automation, where I apply my skills to ensure the robustness and reliability of software systems. As a software developer, I understand the importance of writing clean, efficient code and how it contributes to the overall quality of a product. Explore my GitHub repositories, where I document my learning journey and work on personal projects. Each repository reflects a piece of my exploration, whether it's a new technology, a coding challenge, or a creative endeavor. Feel free to check them out, contribute, or provide feedback. Collaboration is always welcome!**
+**I'm Vijaya Kunwar, a passionate software developer with a specialization in test automation. I am currently immersed in the exciting realm of test automation, where I apply my skills to ensure the robustness and reliability of software systems. Explore my GitHub repositories, where I document my learning journey and work on personal projects. Feel free to check them out, contribute, or provide feedback. Collaboration is always welcome!**
 
 - 🔭 I’m currently working as Automation Tester 
 - 🌱 I’m currently learning Test Driven Development
