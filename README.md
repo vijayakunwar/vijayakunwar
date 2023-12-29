@@ -1,5 +1,5 @@
 
-> Vijaya Kunwar   - Software Developer :technologist:
+**Vijaya Kunwar**   > Software Developer  :technologist:
 
 #### Hi there 👋
 
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Vijaya Kunwar, a passionate software developer with a specialization in test automation. I am currently immersed in the exciting realm of test automation, where I apply my skills to ensure the robustness and reliability of software systems. Explore my GitHub repositories, where I document my learning journey and work on personal projects. Feel free to check them out, contribute, or provide feedback. Collaboration is always welcome!
+I'm technologist, a passionate software developer with a specialization in test automation. I am currently immersed in the exciting realm of test automation, where I apply my skills to ensure the robustness and reliability of software systems. Explore my GitHub repositories, where I document my learning journey and work on personal projects. Feel free to check them out, contribute, or provide feedback. Collaboration is always welcome!
 
 - :nerd_face: I’m currently working as Automation Tester 
 - :cherry_blossom: I’m currently learning Test Driven Development
