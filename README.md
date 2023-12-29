@@ -1,4 +1,6 @@
+# Vijaya Kunwar - <kbd>##Software Developer<kbd>
 ### Hi there 👋
+
 
 
 <!--
@@ -23,28 +25,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on TypeScript and React project
 - 💬 Ask me about Web application development and e2e testing
 
-
-# Vijaya Kunwar - ###**<kbd>Software Developer<kbd>**
-
-## Introduction
-
-Hello there! I'm Vijaya Kunwar, a passionate software developer with a specialization in test automation. I thrive on turning ideas into reality through code, and my journey involves continuous learning and exploration in the vast world of software development.
-
-## Current Work
-
-I am currently immersed in the exciting realm of test automation, where I apply my skills to ensure the robustness and reliability of software systems. As a software developer, I understand the importance of writing clean, efficient code and how it contributes to the overall quality of a product.
-
-## GitHub Repositories
-
-Explore my GitHub repositories, where I document my learning journey and work on personal projects. Each repository reflects a piece of my exploration, whether it's a new technology, a coding challenge, or a creative endeavor. Feel free to check them out, contribute, or provide feedback. Collaboration is always welcome!
-
-- [GitHub Profile](https://github.com/VijayaKunwar)
-
 ## Let's Connect!
 
 I'm always open to connecting with fellow developers, tech enthusiasts, and anyone interested in software development. If you have questions, suggestions, or just want to chat about coding and technology, feel free to reach out.
 
 - LinkedIn: [Vijaya Kunwar](https://www.linkedin.com/in/vijayakunwar/)
-- Twitter: [@VijayaKunwar](https://twitter.com/VijayaKunwar)
 
-Happy coding!
+##Happy coding!
