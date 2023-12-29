@@ -1,4 +1,4 @@
-<kbd>### Vijaya Kunwar - ⚡Software Developer<kbd>
+### Vijaya Kunwar - <kbd>⚡Software Developer⚡<kbd>
 
 #### Hi there 👋
 
