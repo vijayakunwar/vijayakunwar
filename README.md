@@ -1,4 +1,4 @@
-# Vijaya Kunwar - <kbd>##Software Developer<kbd>
+# Vijaya Kunwar - <kbd>*Software Developer*<kbd>
 ### Hi there 👋
 
 
@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on TypeScript and React project
 - 💬 Ask me about Web application development and e2e testing
 
-## Let's Connect!
+# Let's Connect!
 
 I'm always open to connecting with fellow developers, tech enthusiasts, and anyone interested in software development. If you have questions, suggestions, or just want to chat about coding and technology, feel free to reach out.
 
-- LinkedIn: [Vijaya Kunwar](https://www.linkedin.com/in/vijayakunwar/)
+- LinkedIn: [Vijaya Kunwar](https://www.linkedin.com/in/vijaya-kunwar/)
 
-##Happy coding!
+# Happy coding!
