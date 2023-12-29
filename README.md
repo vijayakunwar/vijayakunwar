@@ -25,8 +25,8 @@ I'm technologist, a passionate software developer with a specialization in test 
 
 I'm always open to connecting with fellow developers, tech enthusiasts, and anyone interested in software development. 
 
-- LinkedIn: [Vijaya Kunwar](https://www.linkedin.com/in/vijaya-kunwar/)
+- :LinkedIn: [Vijaya Kunwar](https://www.linkedin.com/in/vijaya-kunwar/)
 
-> [!NOTE] #### Happy coding! :orange_heart:
+Happy coding! :orange_heart:
 > **Vijaya Kunwar**  
 > ***Software Developer***
