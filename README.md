@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Web application development and e2e testing
 
 
-# Vijaya Kunwar - <kbd>Software Developer<kbd>
+# Vijaya Kunwar - ###**<kbd>Software Developer<kbd>**
 
 ## Introduction
 
