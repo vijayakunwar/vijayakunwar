@@ -1,7 +1,6 @@
+**Vijaya Kunwar** > Software Developer   
 
-**Vijaya Kunwar**   > Software Developer  :technologist:
-
-#### Hi there 👋
+Hi there 👋
 
 <!--
 **vijayakunwar/vijayakunwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
