@@ -27,6 +27,6 @@ I'm always open to connecting with fellow developers, tech enthusiasts, and anyo
 
 - LinkedIn: [Vijaya Kunwar](https://www.linkedin.com/in/vijaya-kunwar/)
 
-#### Happy coding! :orange_heart:
+> [!NOTE] #### Happy coding! :orange_heart:
 > **Vijaya Kunwar**  
 > ***Software Developer***
