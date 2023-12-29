@@ -1,3 +1,4 @@
+`rgb(9, 105, 218)`
 ### Vijaya Kunwar - <kbd>⚡Software Developer⚡<kbd>
 
 #### Hi there 👋
