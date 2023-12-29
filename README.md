@@ -1,5 +1,5 @@
 
-### Vijaya Kunwar   > Software Developer :100:
+> Vijaya Kunwar   - Software Developer :100:
 
 #### Hi there 👋
 
