@@ -1,5 +1,5 @@
 
-### `rgb(9, 105, 218)` Vijaya Kunwar - <kbd>⚡Software Developer⚡<kbd>
+### Vijaya Kunwar   > Software Developer :100:
 
 #### Hi there 👋
 
